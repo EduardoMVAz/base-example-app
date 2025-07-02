@@ -3,7 +3,7 @@
     "example-app": {
       "name": "example-app",
       "type": "app",
-      "exec_cmd": "/mnt/managed_home/farm-ng-user-henriquebrnetto/Desktop/base-example-app/venv/bin/python3 /mnt/managed_home/farm-ng-user-henriquebrnetto/Desktop/base-example-app/main.py",
+      "exec_cmd": "/mnt/managed_home/farm-ng-user-henriquebrnetto/Desktop/base-example-app/env/bin/python3 /mnt/managed_home/farm-ng-user-henriquebrnetto/Desktop/base-example-app/main.py",
       "args": [
         "--config /mnt/managed_home/farm-ng-user-henriquebrnetto/Desktop/base-example-app/config.json", "--port 8042"
       ],
